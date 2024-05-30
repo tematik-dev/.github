@@ -1,7 +1,4 @@
-## Tematik Repository 👩‍💻
-**DIREKTORAT SURVEI DAN PEMETAAN TEMATIK**
-**DIREKTORAT JENDERAL SURVEI DAN PEMETAAN PERTANAHAN DAN RUANG**
-**KEMENTERIAN AGRARIA DAN TATA RUANG / BADAN PERTANAHAN NASIONAL**
+# Tematik Repository 👩‍💻
 <!--
 
 **Here are some ideas to get you started:**
